@@ -17,6 +17,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
    //Hello 
-   
+   //lion
   },
 });
